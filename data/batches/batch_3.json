@@ -1,0 +1,4 @@
+{"txn_id": 11, "account_id": "ACC001", "amount": 400.0, "txn_type": "DEPOSIT", "event_time": "2026-10-01 09:20:00"}
+{"txn_id": 12, "account_id": "ACC003", "amount": 60.0, "txn_type": "WITHDRAWAL", "event_time": "2026-10-01 09:21:00"}
+{"txn_id": 13, "account_id": "ACC001", "amount": 20.0, "txn_type": "WITHDRAWAL", "event_time": "2026-10-01 09:22:00"}
+{"txn_id": 14, "account_id": "ACC005", "amount": 900.0, "txn_type": "DEPOSIT", "event_time": "2026-10-01 09:23:00"}
